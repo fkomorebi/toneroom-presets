@@ -2,10 +2,15 @@
 
 This repo contains some of my VOX VT20x/VT40x/VT100x presets.
 
+## ⚠️ Important Warning
+
+**Before loading any preset from this repository, please make sure to backup/save your current user presets using the Tone Room software.** 
+
+These presets will overwrite existing slots when loaded. Once overwritten, your original presets cannot be recovered unless you have previously saved them.
+
 ## How to use
 
 Download the .vtxprog files in the presets folder and open with the Tone Room software.
-
 
 ## Disclaimer
 
